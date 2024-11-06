@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nome": "Dandadan",
+    "ano": 2024,
+    "nota": 8,
+    "genero": "Supernatural",
+    "episodios": 12,
+    "imagem": "https://cdn.myanimelist.net/images/anime/1584/143719.jpg",
+    "sinopse": "Em uma aposta para determinar a existência de extraterrestre e fantasmas, Momo Ayase e Ken Takakura decidem visitar separadamente locais associados a esses acontecimentos. Chegando aos locais, descobrem que nenhum dos dois estava errado."
+  },
+  {
+    "id": 2,
+    "nome": "Fullmetal Alchemist Brotherhood",
+    "ano": 2009,
+    "nota": 10,
+    "genero": "Aventura",
+    "episodios": 64,
+    "imagem": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg",
+    "sinopse": "Edward Elric e seu irmão mais novo Alphonse Elric, são dois jovens alquimistas que buscam a pedra filosofal para restaurar seus corpos após uma desastrosa tentativa de trazer a mãe de volta à vida através da alquimia."
+  }
+]
